@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/val/static/js/main.a84b6c7c.js",
+    "static/media/yong.png": "/val/static/media/yong.45c083fd7fd6a46e6d13.png",
+    "static/media/yongV2.png": "/val/static/media/yongV2.2e1b6f25da0d4dc6222f.png",
+    "static/media/val.jpg": "/val/static/media/val.3714aaaf95083c62a6b4.jpg",
+    "index.html": "/val/index.html",
+    "main.a84b6c7c.js.map": "/val/static/js/main.a84b6c7c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a84b6c7c.js"
+  ]
+}
